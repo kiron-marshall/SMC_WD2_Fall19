@@ -1,0 +1,22 @@
+body {
+    margin: 0px
+}
+
+}
+
+@media(min-width: 540px)
+    nav ul li {
+        display: inline-block;
+        padding-bottom: 5px;
+        border-bottom: 0px;
+        margin: 10px 20px;
+    }
+
+    nav ul {
+        text-align: center;
+    }
+
+    nav {
+            padding: 0px 10px;
+    }
+}
